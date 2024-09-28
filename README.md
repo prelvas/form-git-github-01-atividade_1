@@ -1,0 +1,3 @@
+Ficheiro que contém informação sobre o projeto...
+
+Links e suporte
